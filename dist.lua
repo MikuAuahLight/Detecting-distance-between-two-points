@@ -13,7 +13,7 @@ local status = 0
 do
    if (status == 1) then
        function Distance(...)
-           return Distance(...)
+           return _Distance(...)
        end
        status = nil
     end
