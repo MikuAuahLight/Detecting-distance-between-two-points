@@ -2,7 +2,7 @@
 
 To use this file you should do the following:
 
-Replace "path" with the folder that "dist.lua" is in
+Replace "path" with the folder where "dist.lua" is in
 
 dofile(path .. "/dist.lua")
 
