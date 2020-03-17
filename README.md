@@ -1,4 +1,4 @@
-# Detecting-distance-between-two-points
+# Detecting distance between two points
 
 To use this file you should do the following:
 
